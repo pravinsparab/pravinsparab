@@ -1,6 +1,20 @@
-# 💫 About Me:
-# Hi, I'm Pravin 👋<br><br>### About Me<br>I'm an AI Product Manager based in Mumbai. I started in mechanical engineering, moved into B2B data products, and now own product at an enterprise AI startup focused on sales execution. I like turning messy workflows into products people actually use, and I build prototypes myself instead of waiting for a spec to be perfect.<br><br>- 🔭 **I'm currently working on** voice agents, learning paths, agentic RAG and workflow automations for an enterprise AI platform<br>- 🤝 **I'm looking to collaborate on** open-source AI workflow, RAG and agent projects, especially ones that solve a real business problem<br>- 🆘 **I'm looking for help with** evaluating AI output quality (RAG accuracy, voice agent performance) and measuring what makes AI features stick<br>- 🌱 **I'm currently learning** agentic AI patterns, evals, MCP, and building faster with Claude Code and Antigravity<br>- 💬 **Ask me about** product management for AI products, API product design, RAG over documents, n8n and Langflow automations, and moving from engineering to product<br>- ⚡ **Fun fact:** I went from reverse-engineering water heaters and air coolers as a design engineer to building AI agents for enterprise sales teams<br><br>### 🛠 Tools I work with<br>`n8n` `Langflow` `Claude Code` `Antigravity` `Google AI Studio` `Supabase` `PostHog` `Cloudflare Pages` `Postman` `PostgreSQL` `MySQL` `Jira` `ClickUp` `Plane`<br><br>### 📫 Reach me<br>[LinkedIn](https://www.linkedin.com/in/pravin-parab-463530190/) · psparab14@gmail.com
+# Hi, I'm Pravin 👋
 
+### About Me
+I'm an AI Product Manager based in Mumbai. I started in mechanical engineering, moved into B2B data products, and now own product at an enterprise AI startup focused on sales execution. I like turning messy workflows into products people actually use, and I build prototypes myself instead of waiting for a spec to be perfect.
+
+- 🔭 **I'm currently working on** voice agents, learning paths, agentic RAG and workflow automations for an enterprise AI platform
+- 🤝 **I'm looking to collaborate on** open-source AI workflow, RAG and agent projects, especially ones that solve a real business problem
+- 🆘 **I'm looking for help with** evaluating AI output quality (RAG accuracy, voice agent performance) and measuring what makes AI features stick
+- 🌱 **I'm currently learning** agentic AI patterns, evals, MCP, and building faster with Claude Code and Antigravity
+- 💬 **Ask me about** product management for AI products, API product design, RAG over documents, n8n and Langflow automations, and moving from engineering to product
+- ⚡ **Fun fact:** I went from reverse-engineering water heaters and air coolers as a design engineer to building AI agents for enterprise sales teams
+
+### 🛠 Tools I work with
+`n8n` `Langflow` `Claude Code` `Antigravity` `Google AI Studio` `Supabase` `PostHog` `Cloudflare Pages` `Postman` `PostgreSQL` `MySQL` `Jira` `ClickUp` `Plane`
+
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/pravin-parab-463530190/) · psparab14@gmail.com
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psparab14@gmail.com) 
