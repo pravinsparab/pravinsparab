@@ -14,10 +14,7 @@ I'm an AI Product Manager based in Mumbai. I started in mechanical engineering, 
 `n8n` `Langflow` `Claude Code` `Antigravity` `Google AI Studio` `Supabase` `PostHog` `Cloudflare Pages` `Postman` `PostgreSQL` `MySQL` `Jira` `ClickUp` `Plane`
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/pravin-parab-463530190/) · psparab14@gmail.com
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psparab14@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/pravin-parab-463530190/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
